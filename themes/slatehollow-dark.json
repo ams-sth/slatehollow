@@ -1,11 +1,11 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Vantadark",
+  "name": "Slatehollow Dark",
   "author": "Amsh Shrestha <sthaamsh37@gmail.com>",
   "description": "Inspired by One Dark - Darkened by Pavle Sokic",
   "themes": [
     {
-      "name": "Vantadark",
+      "name": "Slatehollow Dark",
       "appearance": "dark",
       "style": {
         "border": "#1a1e23ff",

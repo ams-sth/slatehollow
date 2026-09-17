@@ -1,11 +1,11 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Vantabright",
+  "name": "Slatehollow Light",
   "author": "Amsh Shrestha <sthaamsh37@gmail.com>",
-  "description": "Vantadark syntax palette on JetBrains Islands Light chrome.",
+  "description": "Slatehollow Dark syntax palette on JetBrains Islands Light chrome.",
   "themes": [
     {
-      "name": "Vantabright",
+      "name": "Slatehollow Light",
       "appearance": "light",
       "style": {
         "border": "#e0e0e0ff",

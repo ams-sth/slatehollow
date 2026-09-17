@@ -1,20 +1,20 @@
-# Vantadark
+# Slatehollow
 
 A theme family that gets out of the way. Two variants — one for each side of the day.
 
 ---
 
-## Vantadark
+## Slatehollow Dark
 
 Clean surfaces, minimal yet subtle border lines, five syntax colours. Enough to tell your code apart, not enough to distract you from it.
 
-![Vantadark](themes/vantadark.png)
+![Slatehollow Dark](themes/slatehollow-dark.png)
 
-## Vantabright
+## Slatehollow Light
 
 The light sibling. JetBrains Islands Light chrome, the same ink palette translated to a clean white editor with a whisper of cool in the panels.
 
-![Vantabright](themes/vantabright.png)
+![Slatehollow Light](themes/slatehollow-light.png)
 
 ---
 
@@ -43,16 +43,16 @@ Open the Command Palette:
 **macOS**
 
 ```text
-cmd + shift + p → extensions → search "Vantadark"
+cmd + shift + p → extensions → search "Slatehollow"
 ```
 
 **Windows/Linux**
 
 ```text
-ctrl + shift + p → extensions → search "Vantadark"
+ctrl + shift + p → extensions → search "Slatehollow"
 ```
 
-Or search for **Vantadark** in Zed's extension marketplace.
+Or search for **Slatehollow** in Zed's extension marketplace.
 
 Configure your theme:
 
@@ -60,8 +60,8 @@ Configure your theme:
 {
   "theme": {
     "mode": "dark",
-    "dark": "Vantadark",
-    "light": "Vantabright"
+    "dark": "Slatehollow Dark",
+    "light": "Slatehollow Light"
   }
 }
 ```
