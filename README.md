@@ -68,10 +68,4 @@ Configure your theme:
 
 ---
 
-## Credits
-
-Inspired by [One Dark Darkened](https://github.com/pavles6/one-dark-darkened) by Pavle Sokic.
-
----
-
 Made by [Amsh](https://github.com/ams-sth)
