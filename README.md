@@ -1,6 +1,6 @@
 # Slatehollow
 
-A theme family that gets out of the way. Two variants — one for each side of the day.
+A theme family that gets out of the way. Three variants — one for each side of the day, plus one for OLED screens.
 
 ---
 
@@ -9,6 +9,12 @@ A theme family that gets out of the way. Two variants — one for each side of t
 Clean surfaces, minimal yet subtle border lines, five syntax colours. Enough to tell your code apart, not enough to distract you from it.
 
 ![Slatehollow Dark](themes/slatehollow-dark.png)
+
+## Slatehollow Dark OLED
+
+Same surfaces, same five colours — tuned for OLED panels. Wide-gamut displays and deep blacks make the original accents feel vivid, so this variant pulls accent saturation back by about a fifth and dims the body text a touch. Hues stay put, so every colour still means the same thing.
+
+![Slatehollow Dark OLED](themes/slatehollow-dark-oled.png)
 
 ## Slatehollow Light
 
@@ -60,7 +66,7 @@ Configure your theme:
 {
   "theme": {
     "mode": "dark",
-    "dark": "Slatehollow Dark",
+    "dark": "Slatehollow Dark", // or "Slatehollow Dark OLED"
     "light": "Slatehollow Light"
   }
 }
