@@ -14,6 +14,8 @@ Clean surfaces, minimal yet subtle border lines, five syntax colours. Enough to 
 
 Same surfaces, same five colours — tuned for OLED panels. Wide-gamut displays and deep blacks make the original accents feel vivid, so this variant pulls accent saturation back by about a fifth and dims the body text a touch. Hues stay put, so every colour still means the same thing.
 
+Reach for it when Slatehollow Dark looks oversaturated — typically wide-gamut OLED laptops on Windows without colour management. On colour-managed screens (macOS, or Windows with automatic colour management), the original Dark already renders as intended.
+
 ![Slatehollow Dark OLED](themes/slatehollow-dark-oled.png)
 
 ## Slatehollow Light
